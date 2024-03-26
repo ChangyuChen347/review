@@ -1,19 +1,7 @@
 # Masked Thought
 
-### 1. Overview
 
-We propose to use a simple regularization method **Masked thought Fine-Tuning (MFT)** for the supervised fine-tuning of mathematical reasoning data.
-<div  align="center">
- <img src="overview.png" width = "550" alt="d" align=center />
-</div>
-
-### 2. Main results
-
-<div  align="center">
- <img src="main_res.png" width = "550" alt="d" align=center />
-</div>
-
-### 3. Quick Start
+### 1. Quick Start
 #### 1) Installation
 ```bash
 conda create -n mask python=3.10
@@ -43,7 +31,7 @@ For training and evaluation on other datasets and models, you can refer to ```./
 You can also refer to the repos of [MetaMath](https://github.com/nlpxucan/WizardLM/tree/main/WizardMath), [MAmmoTH]() and [RFT](https://github.com/OFA-Sys/gsm8k-ScRel/tree/main) for more details about their evaluation and datasets.
 
 
-### 4. Train with your own code
+### 2. Train with your own code
 If you'd like incorporate MFT into your own code, just add the following codes before feeding `input_ids` to the model. `MASK_INDEX` can be the `token_id` of a new added token`[mask]` or the`[pad]` in the original tokenizer, depending on your preference.
 ```python
 def mask_target_tokens(input_ids, sources_tokenized, mask_probability, MASK_INDEX, tokenizer):
