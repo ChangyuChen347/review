@@ -1,0 +1,119 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 0 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold per day to find her total sales: 9 eggs/day / 2 eggs/day = $<<9/2=4.50>>4.50/day
+#### 4
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 1 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold at the farmers' market each day to find her sales: 9 eggs/day / 2/duck egg = $<<9/2=4.50>>4.50/day
+#### 4.5
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 2 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold at the farmers' market each day to find her sales: 9 eggs/day / 2/egg = $<<9/2=4.50>>4.50/day
+#### 4
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfas t: 3 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold per day to find her total sales: 9 eggs/day / 2 eggs/day = $<<9/2=4.5>>4.5/day
+#### 4.5
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 4 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold at the farmers' market each day to find her sales: 9 eggs/day / 2 eggs/day = $<<9/2=4.50>>4.50/day
+#### 4.5
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 5 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold per day to find her total sales: 9 eggs/day / 2 eggs/day = $<<9/2=4.50>>4.50/day
+#### 4
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 6 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold at the farmers' market each day to find her sales: 9 eggs/day / 2 eggs/day = $<<9/2=4.50>>4.50/day
+#### 4.5
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 7 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold at the farmers' market each day to find her sales: 9 eggs/day / 2 eggs/day = $<<9/2=4.50>>4.50/day
+#### 4.5
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 8 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold at the farmers' market each day to find her sales: 9 eggs/day / 2 eggs/day = $<<9/2=4.50>>4.50/day
+#### 4.5
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+### Response:  
+First find the number of eggs remaining after Janet eats three for breakfast: 9 eggs/day - 3 eggs/day = <<16-3=13>>13 eggs/day
+Then find the number of eggs remaining after she bakes the muffins: 13 eggs/day - 4 eggs/day = <<13-4=9>>9 eggs/day
+Then divide the number of eggs remaining by the number of eggs sold at the farmers' market each day to find her sales: 9 eggs/day / 2/duck egg = $<<9/2=4.50>>4.50/day
+#### 4.5
