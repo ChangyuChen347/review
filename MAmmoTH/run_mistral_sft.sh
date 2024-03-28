@@ -15,7 +15,7 @@ torchrun --master_addr ${MASTER_ADDR} --nproc_per_node=${NUM_GPUS} --master_port
   --gradient_accumulation_steps 16 \
   --evaluation_strategy "no" \
   --save_strategy "steps" \
-  --save_steps 2000\
+  --save_steps 2000 \
   --save_total_limit 4 \
   --learning_rate 5e-6 \
   --weight_decay 0. \
